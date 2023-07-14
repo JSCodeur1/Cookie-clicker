@@ -19,7 +19,7 @@
                 gagne = 1;
             };
         } else {
-            alert("Tu as deja gagne !");
+            alert("Tu as deja gagné !");
         }
         
     };
