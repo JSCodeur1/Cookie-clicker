@@ -1,0 +1,51 @@
+body{
+  background-color: #f5f6f8;
+}
+
+.div-txt{
+    width: 920px;
+    height: 180px;
+    background-color: black;
+}
+
+.description{
+    color: black;
+    padding: 0px
+    margin: 0px;
+    font-size: 30px;
+    color: red;
+    background-color: black;
+}
+
+.score{
+  font-size: 40px;
+  color: #F99E00;
+}
+
+.cookie{
+    padding: 0px;
+    margin: 0px;
+    height: 400px;
+    width: 450px;
+}
+
+.plus-25 {
+    direction: ltr;
+    font: 81.25% 'Lucida Grande',arial,sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    text-shadow: none;
+    text-align: center;
+    background: #FFC500;
+    width: 475px;
+    height: 50px;
+    margin: 10px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 18px;
+    background-position: -15px -400px;
+    display: inline;
+}
